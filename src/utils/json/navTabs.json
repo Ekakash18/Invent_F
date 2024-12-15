@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "name": "Reports",
+        "icon": "document-chart-bar",
+        "destination": "reports",
+        "position": "left",
+        "description": "Show the Report for the "
+    },
+    {
+        "id":2,
+        "name": "Purchase Orders",
+        "icon": "document-text",
+        "destination": "purchase-orders",
+        "position": "left",
+        "description": "Show the Report for the "
+    },
+    {
+        "id":3,
+        "name": "Employees",
+        "icon": "user-group",
+        "destination": "employees",
+        "position": "left",
+        "description": "Show the Report for the "
+    },
+    {
+        "id":4,
+        "name": "Products",
+        "icon": "cube",
+        "destination": "products",
+        "position": "left",
+        "description": "Show the Report for the "
+    },
+    {
+        "id":5,
+        "name": "Suppliers",
+        "icon": "users",
+        "destination": "suppliers",
+        "position": "left",
+        "description": "Show the Report for the "
+    },
+    {
+        "id": 6,
+        "name": "Notification",
+        "icon": "bell",
+        "destination": "notification",
+        "position": "top",
+        "description": "Show the Report for the "
+    },
+    {
+        "id": 7,
+        "name": "Settings",
+        "icon": "cog-6-tooth",
+        "destination": "settings",
+        "position": "left",
+        "description": "Show the Report for the "
+    }
+]

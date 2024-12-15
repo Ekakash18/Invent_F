@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Michael Kavin",
+        "gender": "male",
+        "role": "employee",
+        "status": true,
+        "joined": "2024-08-14"
+    },
+    {
+        "id": 2,
+        "name": "Sarah Johnson",
+        "gender": "female",
+        "role": "manager",
+        "status": true,
+        "joined": "2015-06-20"
+    },
+    {
+        "id": 3,
+        "name": "David Williams",
+        "gender": "male",
+        "role": "employee",
+        "status": true,
+        "joined": "2018-02-11"
+    },
+    {
+        "id": 4,
+        "name": "Emily Brown",
+        "gender": "female",
+        "role": "employee",
+        "status": true,
+        "joined": "2020-09-01"
+    },
+    {
+        "id": 5,
+        "name": "James Smith",
+        "gender": "male",
+        "role": "employee",
+        "status": true,
+        "joined": "2010-01-15"
+    },
+    {
+        "id": 6,
+        "name": "Linda Davis",
+        "gender": "female",
+        "role": "employee",
+        "status": true,
+        "joined": "2016-04-22"
+    },
+    {
+        "id": 7,
+        "name": "Robert Miller",
+        "gender": "male",
+        "role": "analyst",
+        "status": false,
+        "joined": "2021-05-13"
+    },
+    {
+        "id": 8,
+        "name": "Patricia Wilson",
+        "gender": "female",
+        "role": "intern",
+        "status": true,
+        "joined": "2024-01-10"
+    },
+    {
+        "id": 9,
+        "name": "Christopher Martinez",
+        "gender": "male",
+        "role": "employee",
+        "status": true,
+        "joined": "2017-08-29"
+    },
+    {
+        "id": 10,
+        "name": "Barbara Anderson",
+        "gender": "female",
+        "role": "support",
+        "status": false,
+        "joined": "2022-07-07"
+    }
+]

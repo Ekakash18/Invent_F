@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "name": "Apple iMac 27",
+        "category": "PC",
+        "brand": "Apple",
+        "description": "All-in-one desktop with a sleek 27-inch Retina display.",
+        "price": 1299,
+        "quantity": 200
+    },
+    {
+        "id": 2,
+        "name": "Dell XPS 15",
+        "category": "Laptop",
+        "brand": "Dell",
+        "description": "High-performance laptop with a 15-inch InfinityEdge display.",
+        "price": 1499,
+        "quantity": 150
+    },
+    {
+        "id": 3,
+        "name": "HP Spectre x360",
+        "category": "Laptop",
+        "brand": "HP",
+        "description": "Convertible laptop with a 13.3-inch 4K touchscreen.",
+        "price": 1399,
+        "quantity": 180
+    },
+    {
+        "id": 4,
+        "name": "Lenovo ThinkPad X1",
+        "category": "Laptop",
+        "brand": "Lenovo",
+        "description": "Business-class laptop with exceptional durability and performance.",
+        "price": 1199,
+        "quantity": 160
+    },
+    {
+        "id": 5,
+        "name": "ASUS ROG Zephyrus G14",
+        "category": "Laptop",
+        "brand": "ASUS",
+        "description": "Gaming laptop with a powerful AMD Ryzen processor and compact design.",
+        "price": 1599,
+        "quantity": 140
+    },
+    {
+        "id": 6,
+        "name": "Microsoft Surface Pro 7",
+        "category": "Tablet",
+        "brand": "Microsoft",
+        "description": "Versatile 2-in-1 device with a detachable keyboard and 12.3-inch display.",
+        "price": 999,
+        "quantity": 170
+    },
+    {
+        "id": 7,
+        "name": "Samsung Galaxy Tab S7",
+        "category": "Tablet",
+        "brand": "Samsung",
+        "description": "Premium tablet with an 11-inch display and S Pen included.",
+        "price": 849,
+        "quantity": 200
+    },
+    {
+        "id": 8,
+        "name": "Apple MacBook Air",
+        "category": "Laptop",
+        "brand": "Apple",
+        "description": "Ultra-thin and lightweight laptop with a 13.3-inch Retina display.",
+        "price": 999,
+        "quantity": 220
+    },
+    {
+        "id": 9,
+        "name": "Acer Predator Helios 300",
+        "category": "Laptop",
+        "brand": "Acer",
+        "description": "Gaming laptop with a 15.6-inch Full HD display and NVIDIA GeForce GTX graphics.",
+        "price": 1399,
+        "quantity": 130
+    },
+    {
+        "id": 10,
+        "name": "Razer Blade 15",
+        "category": "Laptop",
+        "brand": "Razer",
+        "description": "High-performance gaming laptop with a 15.6-inch 4K display and customizable RGB keyboard.",
+        "price": 1799,
+        "quantity": 110
+    },
+    {
+        "id": 11,
+        "name": "Sony VAIO SX14",
+        "category": "Laptop",
+        "brand": "Sony",
+        "description": "Lightweight and stylish laptop with a 14-inch display and long battery life.",
+        "price": 1199,
+        "quantity": 140
+    },
+    {
+        "id": 12,
+        "name": "Google Pixelbook Go",
+        "category": "Laptop",
+        "brand": "Google",
+        "description": "Chromebook with a 13.3-inch display and a lightweight, portable design.",
+        "price": 649,
+        "quantity": 180
+    },
+    {
+        "id": 13,
+        "name": "HP Envy 13",
+        "category": "Laptop",
+        "brand": "HP",
+        "description": "Premium ultrabook with a 13.3-inch Full HD display and elegant design.",
+        "price": 999,
+        "quantity": 170
+    },
+    {
+        "id": 14,
+        "name": "Dell Inspiron 14",
+        "category": "Laptop",
+        "brand": "Dell",
+        "description": "Affordable and versatile laptop with a 14-inch display and solid performance.",
+        "price": 799,
+        "quantity": 200
+    },
+    {
+        "id": 15,
+        "name": "Lenovo Yoga C740",
+        "category": "Laptop",
+        "brand": "Lenovo",
+        "description": "2-in-1 laptop with a 14-inch touchscreen and flexible hinge.",
+        "price": "1099",
+        "quantity": 150
+    },
+    {
+        "id": 16,
+        "name": "Microsoft Surface Laptop 4",
+        "category": "Laptop",
+        "brand": "Microsoft",
+        "description": "Elegant laptop with a 13.5-inch PixelSense display and long battery life.",
+        "price": 1299,
+        "quantity": 180
+    },
+    {
+        "id": 17,
+        "name": "Samsung Galaxy Book Pro",
+        "category": "Laptop",
+        "brand": "Samsung",
+        "description": "Ultra-slim laptop with a 15.6-inch AMOLED display and powerful performance.",
+        "price": 1399,
+        "quantity": 160
+    },
+    {
+        "id": 18,
+        "name": "Apple Mac Mini",
+        "category": "PC",
+        "brand": "Apple",
+        "description": "Compact desktop with the latest M1 chip and versatile connectivity options.",
+        "price": 699,
+        "quantity": 200
+    },
+    {
+        "id": 19,
+        "name": "HP Pavilion x360",
+        "category": "Laptop",
+        "brand": "HP",
+        "description": "Convertible laptop with a 14-inch display and flexible hinge.",
+        "price": 849,
+        "quantity": 190
+    },
+    {
+        "id": 20,
+        "name": "Lenovo IdeaPad Flex 5",
+        "category": "Laptop",
+        "brand": "Lenovo",
+        "description": "2-in-1 laptop with a 14-inch touchscreen and affordable price.",
+        "price": 799,
+        "quantity": 170
+    },
+    {
+        "id": 21,
+        "name": "Acer Aspire 5",
+        "category": "Laptop",
+        "brand": "Acer",
+        "description": "Budget-friendly laptop with a 15.6-inch Full HD display and decent performance.",
+        "price": 649,
+        "quantity": 210
+    },
+    {
+        "id": 22,
+        "name": "Razer Blade Stealth 13",
+        "category": "Laptop",
+        "brand": "Razer",
+        "description": "Compact and powerful ultrabook with a 13.3-inch display and gaming capabilities.",
+        "price": 1499,
+        "quantity": 120
+    },
+    {
+        "id": 23,
+        "name": "Sony VAIO A12",
+        "category": "Laptop",
+        "brand": "Sony",
+        "description": "High-end laptop with a 13-inch display and premium build quality.",
+        "price": 1399,
+        "quantity": 130
+    },
+    {
+        "id": 24,
+        "name": "Google Pixelbook",
+        "category": "Laptop",
+        "brand": "Google",
+        "description": "High-performance Chromebook with a 12.3-inch display and long battery life.",
+        "price": 999,
+        "quantity": 140
+    },
+    {
+        "id": 25,
+        "name": "HP Omen 15",
+        "category": "Laptop",
+        "brand": "HP",
+        "description": "Gaming laptop with a 15.6-inch display and high-end graphics card.",
+        "price": 1499,
+        "quantity": 150
+    },
+    {
+        "id": 26,
+        "name": "Dell G5 15",
+        "category": "Laptop",
+        "brand": "Dell",
+        "description": "Gaming laptop with a 15.6-inch display and powerful hardware.",
+        "price": 1399,
+        "quantity": 140
+    },
+    {
+        "id": 27,
+        "name": "Microsoft Surface Go 2",
+        "category": "Tablet",
+        "brand": "Microsoft",
+        "description": "Compact tablet with a 10.5-inch display and versatile performance.",
+        "price": 399,
+        "quantity": 200
+    },
+    {
+        "id": 28,
+        "name": "Samsung Galaxy Tab A7",
+        "category": "Tablet",
+        "brand": "Samsung",
+        "description": "Affordable tablet with a 10.4-inch display and good performance.",
+        "price": 229,
+        "quantity": 250
+    },
+    {
+        "id": 29,
+        "name": "Apple iPad Pro 12.9",
+        "category": "Tablet",
+        "brand": "Apple",
+        "description": "High-end tablet with a 12.9-inch Liquid Retina display and powerful performance.",
+        "price": 999,
+        "quantity": 180
+    },
+    {
+        "id": 30,
+        "name": "Huawei MatePad Pro",
+        "category": "Tablet",
+        "brand": "Huawei",
+        "description": "Premium tablet with a 10.8-inch display and versatile capabilities.",
+        "price": 799,
+        "quantity": 170
+    },
+    {
+        "id": 31,
+        "name": "Lenovo Legion 5 Pro",
+        "category": "Laptop",
+        "brand": "Lenovo",
+        "description": "Gaming laptop with a 16-inch QHD display and high-performance components.",
+        "price": 1599,
+        "quantity": 130
+    },
+    {
+        "id": 32,
+        "name": "Dell Alienware m15",
+        "category": "Laptop",
+        "brand": "Dell",
+        "description": "High-end gaming laptop with a 15.6-inch display and top-tier graphics.",
+        "price": 1799,
+        "quantity": 120
+    },
+    {
+        "id": 33,
+        "name": "Acer Nitro 5",
+        "category": "Laptop",
+        "brand": "Acer",
+        "description": "Affordable gaming laptop with a 15.6-inch Full HD display and good performance.",
+        "price": 1099,
+        "quantity": 140
+    },
+    {
+        "id": 34,
+        "name": "HP Elite Dragonfly",
+        "category": "Laptop",
+        "brand": "HP",
+        "description": "Premium business laptop with a lightweight design and 13.5-inch display.",
+        "price": 1599,
+        "quantity": 110
+    },
+    {
+        "id": 35,
+        "name": "Apple MacBook Pro 16",
+        "category": "Laptop",
+        "brand": "Apple",
+        "description": "High-performance laptop with a 16-inch Retina display and advanced features.",
+        "price": 2399,
+        "quantity": 100
+    },
+    {
+        "id": 36,
+        "name": "Sony VAIO Z",
+        "category": "Laptop",
+        "brand": "Sony",
+        "description": "Premium laptop with a 14-inch display and high-end specifications.",
+        "price": 1299,
+        "quantity": 140
+    },
+    {
+        "id": 37,
+        "name": "Google Pixelbook Slate",
+        "category": "Tablet",
+        "brand": "Google",
+        "description": "High-end Chromebook with a 12.3-inch display and detachable keyboard.",
+        "price": 999,
+        "quantity": 150
+    },
+    {
+        "id": 38,
+        "name": "Microsoft Surface Pro X",
+        "category": "Tablet",
+        "brand": "Microsoft",
+        "description": "2-in-1 device with a 13-inch PixelSense display and ARM-based processor.",
+        "price": 899,
+        "quantity": 160
+    },
+    {
+        "id": 39,
+        "name": "Samsung Galaxy Book 2",
+        "category": "Laptop",
+        "brand": "Samsung",
+        "description": "2-in-1 laptop with a 12-inch AMOLED display and versatile design.",
+        "price": 1199,
+        "quantity": 150
+    },
+    {
+        "id": 40,
+        "name": "HP Spectre Folio",
+        "category": "Laptop",
+        "brand": "HP",
+        "description": "Premium convertible laptop with a 13.3-inch display and leather design.",
+        "price": 1399,
+        "quantity": 140
+    },
+    {
+        "id": 41,
+        "name": "Lenovo ThinkPad L14",
+        "category": "Laptop",
+        "brand": "Lenovo",
+        "description": "Durable business laptop with a 14-inch display and reliable performance.",
+        "price": 899,
+        "quantity": 160
+    },
+    {
+        "id": 42,
+        "name": "Dell Latitude 7410",
+        "category": "Laptop",
+        "brand": "Dell",
+        "description": "Premium business laptop with a 14-inch display and high-end features.",
+        "price": 1399,
+        "quantity": 120
+    },
+    {
+        "id": 43,
+        "name": "Apple iPad Mini",
+        "category": "Tablet",
+        "brand": "Apple",
+        "description": "Compact tablet with a 7.9-inch display and powerful performance.",
+        "price": 399,
+        "quantity": 180
+    },
+    {
+        "id": 44,
+        "name": "Huawei MatePad T10",
+        "category": "Tablet",
+        "brand": "Huawei",
+        "description": "Affordable tablet with a 9.7-inch display and decent performance.",
+        "price": 199,
+        "quantity": 200
+    },
+    {
+        "id": 45,
+        "name": "Acer ConceptD 7",
+        "category": "Laptop",
+        "brand": "Acer",
+        "description": "High-end laptop for creatives with a 15.6-inch 4K display and powerful specs.",
+        "price": 1999,
+        "quantity": 100
+    },
+    {
+        "id": 46,
+        "name": "Razer Book 13",
+        "category": "Laptop",
+        "brand": "Razer",
+        "description": "Premium ultrabook with a 13.4-inch display and sleek design.",
+        "price": 1499,
+        "quantity": 130
+    },
+    {
+        "id": 47,
+        "name": "Sony VAIO E Series",
+        "category": "Laptop",
+        "brand": "Sony",
+        "description": "Versatile laptop with a 15.5-inch display and mid-range specs.",
+        "price": 899,
+        "quantity": 150
+    },
+    {
+        "id": 48,
+        "name": "Dell Vostro 15",
+        "category": "Laptop",
+        "brand": "Dell",
+        "description": "Business laptop with a 15.6-inch display and solid performance for everyday tasks.",
+        "price": 799,
+        "quantity": 160
+    },
+    {
+        "id": 49,
+        "name": "HP Stream 11",
+        "category": "Laptop",
+        "brand": "HP",
+        "description": "Affordable and compact laptop with an 11.6-inch display, ideal for basic tasks.",
+        "price": 229,
+        "quantity": 200
+    },
+    {
+        "id": 50,
+        "name": "Lenovo Chromebook Duet",
+        "category": "Tablet",
+        "brand": "Lenovo",
+        "description": "2-in-1 tablet with a detachable keyboard and 10.1-inch display.",
+        "price": 299,
+        "quantity": 190
+    }
+]

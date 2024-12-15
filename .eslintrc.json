@@ -1,3 +1,48 @@
 {
-  "extends": "next/core-web-vitals"
+  "root": true,
+  "extends": "next/core-web-vitals",
+  "overrides": [
+    {
+      // Adapt to your needs (e.g. some might want to only override "next.config.js")
+      "files": ["*.js"],
+      "parser": "espree",
+      "parserOptions": {
+        "ecmaVersion": 2020
+      }
+    }
+  ],
+  "rules": {
+        "semi": [2, "always"],
+        "quotes": [1, "single"],
+        "no-console": 0,
+        "object-curly-spacing": [2, "always"],
+        "camelcase": 1,
+        "max-len": [2,{
+            "code": 400
+        }],
+        "default-case": 1,
+        "no-case-declarations": 1,
+        "consistent-return": 1,
+        "no-useless-catch": 1,
+        "no-param-reassign": 0,
+        "no-plusplus": 0,
+        "one-var-declaration-per-line": 0,
+        "one-var": 0,
+        "arrow-parens": 0,
+        "jsx-quotes": [2, "prefer-single"],
+        "react/prop-types": 0,
+        "react/jsx-props-no-spreading": 0,
+        "react/react-in-jsx-scope": 0,
+        "react/function-component-definition": [
+            2,
+            {
+                "namedComponents": "arrow-function",
+                "unnamedComponents": "arrow-function"
+            }
+        ],
+        "react/jsx-filename-extension": [2, { "extensions": [".js", ".jsx"] }],
+        "no-unused-vars": 0,
+        "no-nested-ternary": 0,
+        "no-shadow": 0
+    }
 }

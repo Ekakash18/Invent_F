@@ -1,0 +1,263 @@
+[
+    {
+        "id": 1,
+        "name": "Apple iMac 27",
+        "category": "PC",
+        "brand": "Apple",
+        "description": "Powerful all-in-one desktop computer with a stunning Retina display.",
+        "price": "1299",
+        "quantity": "200"
+    },
+    {
+        "id": 2,
+        "name": "Dell XPS 15",
+        "category": "Laptop",
+        "brand": "Dell",
+        "description": "High-performance laptop with an InfinityEdge display for productivity.",
+        "price": "1499",
+        "quantity": "150"
+    },
+    {
+        "id": 3,
+        "name": "HP Spectre x360",
+        "category": "Laptop",
+        "brand": "HP",
+        "description": "Versatile 2-in-1 laptop with a sleek design and powerful performance.",
+        "price": "1199",
+        "quantity": "175"
+    },
+    {
+        "id": 4,
+        "name": "Apple MacBook Pro 13",
+        "category": "Laptop",
+        "brand": "Apple",
+        "description": "Compact yet powerful laptop with the M1 chip for advanced performance.",
+        "price": "1299",
+        "quantity": "200"
+    },
+    {
+        "id": 5,
+        "name": "Microsoft Surface Pro 7",
+        "category": "Tablet",
+        "brand": "Microsoft",
+        "description": "Ultra-light and versatile tablet with a detachable keyboard.",
+        "price": "899",
+        "quantity": "220"
+    },
+    {
+        "id": 6,
+        "name": "Lenovo ThinkPad X1 Carbon",
+        "category": "Laptop",
+        "brand": "Lenovo",
+        "description": "Business laptop with robust security features and a durable design.",
+        "price": "1399",
+        "quantity": "130"
+    },
+    {
+        "id": 7,
+        "name": "Samsung Galaxy Tab S7",
+        "category": "Tablet",
+        "brand": "Samsung",
+        "description": "High-resolution tablet with a vibrant display and long battery life.",
+        "price": "649",
+        "quantity": "250"
+    },
+    {
+        "id": 8,
+        "name": "Acer Aspire 5",
+        "category": "Laptop",
+        "brand": "Acer",
+        "description": "Affordable laptop with a full HD display and ample storage.",
+        "price": "499",
+        "quantity": "300"
+    },
+    {
+        "id": 9,
+        "name": "Asus ROG Strix",
+        "category": "Laptop",
+        "brand": "Asus",
+        "description": "Gaming laptop with powerful graphics and a fast refresh rate.",
+        "price": "1799",
+        "quantity": "100"
+    },
+    {
+        "id": 10,
+        "name": "Google Pixelbook Go",
+        "category": "Laptop",
+        "brand": "Google",
+        "description": "Lightweight Chromebook with a long battery life and ultra-quiet keys.",
+        "price": "649",
+        "quantity": "180"
+    },
+    {
+        "id": 11,
+        "name": "LG Gram 17",
+        "category": "Laptop",
+        "brand": "LG",
+        "description": "Ultra-lightweight laptop with a large display and extended battery life.",
+        "price": "1699",
+        "quantity": "80"
+    },
+    {
+        "id": 12,
+        "name": "Apple MacBook Air M1",
+        "category": "Laptop",
+        "brand": "Apple",
+        "description": "Thin and light laptop with the powerful M1 chip for enhanced performance.",
+        "price": "999",
+        "quantity": "210"
+    },
+    {
+        "id": 13,
+        "name": "Razer Blade 15",
+        "category": "Laptop",
+        "brand": "Razer",
+        "description": "Premium gaming laptop with a sleek design and high-performance specs.",
+        "price": "1999",
+        "quantity": "90"
+    },
+    {
+        "id": 14,
+        "name": "Microsoft Surface Laptop 4",
+        "category": "Laptop",
+        "brand": "Microsoft",
+        "description": "Elegant laptop with a PixelSense touchscreen and robust performance.",
+        "price": "1299",
+        "quantity": "160"
+    },
+    {
+        "id": 15,
+        "name": "Sony VAIO SX14",
+        "category": "Laptop",
+        "brand": "Sony",
+        "description": "Compact and lightweight laptop with impressive display and performance.",
+        "price": "1799",
+        "quantity": "70"
+    },
+    {
+        "id": 16,
+        "name": "HP Envy x360",
+        "category": "Laptop",
+        "brand": "HP",
+        "description": "Flexible 2-in-1 laptop with powerful performance and a sleek design.",
+        "price": "1099",
+        "quantity": "190"
+    },
+    {
+        "id": 17,
+        "name": "Dell Inspiron 15",
+        "category": "Laptop",
+        "brand": "Dell",
+        "description": "Affordable laptop with a large display and ample storage options.",
+        "price": "699",
+        "quantity": "250"
+    },
+    {
+        "id": 18,
+        "name": "Apple iPad Pro 12.9",
+        "category": "Tablet",
+        "brand": "Apple",
+        "description": "High-end tablet with a stunning Liquid Retina display and powerful performance.",
+        "price": "1099",
+        "quantity": "220"
+    },
+    {
+        "id": 19,
+        "name": "Samsung Galaxy Book Flex",
+        "category": "Laptop",
+        "brand": "Samsung",
+        "description": "2-in-1 laptop with a QLED display and long-lasting battery life.",
+        "price": "1399",
+        "quantity": "130"
+    },
+    {
+        "id": 20,
+        "name": "Asus ZenBook 14",
+        "category": "Laptop",
+        "brand": "Asus",
+        "description": "Ultra-slim laptop with a NanoEdge display and powerful performance.",
+        "price": "999",
+        "quantity": "210"
+    },
+    {
+        "id": 21,
+        "name": "HP Omen 15",
+        "category": "Laptop",
+        "brand": "HP",
+        "description": "Gaming laptop with high-performance graphics and a fast refresh rate.",
+        "price": "1499",
+        "quantity": "120"
+    },
+    {
+        "id": 22,
+        "name": "Dell Latitude 9410",
+        "category": "Laptop",
+        "brand": "Dell",
+        "description": "Business laptop with long battery life and robust security features.",
+        "price": "1699",
+        "quantity": "100"
+    },
+    {
+        "id": 23,
+        "name": "Lenovo Yoga C940",
+        "category": "Laptop",
+        "brand": "Lenovo",
+        "description": "Versatile 2-in-1 laptop with a sleek design and powerful performance.",
+        "price": "1399",
+        "quantity": "160"
+    },
+    {
+        "id": 24,
+        "name": "Microsoft Surface Go 2",
+        "category": "Tablet",
+        "brand": "Microsoft",
+        "description": "Compact and portable tablet with a detachable keyboard option.",
+        "price": "499",
+        "quantity": "250"
+    },
+    {
+        "id": 25,
+        "name": "Acer Chromebook Spin 713",
+        "category": "Laptop",
+        "brand": "Acer",
+        "description": "Convertible Chromebook with a high-resolution display and fast performance.",
+        "price": "649",
+        "quantity": "200"
+    },
+    {
+        "id": 26,
+        "name": "Apple iPad Air",
+        "category": "Tablet",
+        "brand": "Apple",
+        "description": "Lightweight and powerful tablet with a stunning Retina display.",
+        "price": "599",
+        "quantity": "220"
+    },
+    {
+        "id": 27,
+        "name": "Samsung Galaxy Book Ion",
+        "category": "Laptop",
+        "brand": "Samsung",
+        "description": "Ultra-slim laptop with a QLED display and long-lasting battery life.",
+        "price": "1399",
+        "quantity": "140"
+    },
+    {
+        "id": 28,
+        "name": "HP Pavilion 15",
+        "category": "Laptop",
+        "brand": "HP",
+        "description": "Affordable laptop with a large display and ample storage options.",
+        "price": "649",
+        "quantity": "300"
+    },
+    {
+        "id": 29,
+        "name": "Apple iPad Mini",
+        "category": "Tablet",
+        "brand": "Apple",
+        "description": "Compact tablet with powerful performance and a stunning display.",
+        "price": "399",
+        "quantity": "240"
+    }
+]
