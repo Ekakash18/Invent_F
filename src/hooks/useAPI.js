@@ -3,7 +3,7 @@ import { API_KEY } from '@/utils/constants';
 import axios from 'axios';
 
 const useAPI = axios.create({
-    baseURL: 'http://localhost:4400/api',
+    baseURL: 'https://invent-b.onrender.com/',
     headers: {
         'Content-Type': 'application/json',
     },
